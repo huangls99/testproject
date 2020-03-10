@@ -13,6 +13,7 @@ namespace MaFeeg.K3Cloud.Developments
 
 
 /*
+ 字段说明
 五、字段说明:
 单据编号:FBillNo 
 货主:FOWNERID 
